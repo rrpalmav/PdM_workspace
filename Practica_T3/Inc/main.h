@@ -32,7 +32,6 @@
 /* Exported types ------------------------------------------------------------*/
 
 
-
 /* Exported constants --------------------------------------------------------*/
 /* User can use this section to tailor USARTx/UARTx instance used and associated
    resources */

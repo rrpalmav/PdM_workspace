@@ -1,0 +1,42 @@
+2024-06-19 06:25:41,314 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2024-06-19 06:25:50,987 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2024-06-19 06:25:50,987 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 6:25:50.786 ERROR Chromium process exit code: 1,073,807,364
+2024-06-19 06:25:50,993 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Exception in thread "Browser Thread: ee166d88-5ce4-4e90-ad47-b1c50fbd0c09" 
+2024-06-19 06:25:50,993 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] java.lang.IllegalStateException
+2024-06-19 06:25:50,997 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.teamdev.jxbrowser.deps.com.google.common.base.Preconditions.checkState(Preconditions.java:494)
+2024-06-19 06:25:50,999 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.teamdev.jxbrowser.internal.RpcThreadImpl.submit(RpcThreadImpl.java:94)
+2024-06-19 06:25:51,004 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.teamdev.jxbrowser.browser.internal.BrowserImpl.notifyObserversAsync(BrowserImpl.java:768)
+2024-06-19 06:25:51,007 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.teamdev.jxbrowser.frame.internal.Frames.lambda$deleteFrame$3(Frames.java:73)
+2024-06-19 06:25:51,009 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+2024-06-19 06:25:51,012 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.teamdev.jxbrowser.frame.internal.Frames.deleteFrame(Frames.java:71)
+2024-06-19 06:25:51,015 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.teamdev.jxbrowser.frame.internal.Frames.lambda$new$1(Frames.java:32)
+2024-06-19 06:25:51,018 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.teamdev.jxbrowser.internal.rpc.stream.CallbackStream.process(CallbackStream.java:181)
+2024-06-19 06:25:51,021 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.teamdev.jxbrowser.internal.rpc.stream.Stream$StreamObserver.lambda$onNext$0(Stream.java:167)
+2024-06-19 06:25:51,025 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.teamdev.jxbrowser.internal.RpcThreadImpl$TaskRunner.processTasks(RpcThreadImpl.java:172)
+2024-06-19 06:25:51,027 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.Thread.run(Thread.java:833)
+2024-06-19 06:25:51,027 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 6:25:50.993 ERROR Crash dump dir: C:\Users\rpalma\AppData\Local\JxBrowser\7.37.2\CrashReports
+2024-06-19 06:25:51,027 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2024-06-19 06:25:51,107 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2024-06-19 06:25:51,107 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2024-06-19 06:25:51,212 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2024-06-19 06:25:51,212 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2024-06-19 06:25:51,316 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2024-06-19 06:25:51,316 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2024-06-19 06:25:51,388 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2024-06-19 06:25:51,388 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2024-06-19 06:25:51,448 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2024-06-19 06:25:51,448 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2024-06-19 06:25:51,516 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2024-06-19 06:25:51,516 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2024-06-19 06:25:51,573 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2024-06-19 06:25:51,573 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2024-06-19 06:25:51,637 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2024-06-19 06:25:51,637 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2024-06-19 06:25:51,713 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2024-06-19 06:25:51,717 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2024-06-19 06:25:51,777 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2024-06-19 06:25:51,777 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2024-06-19 06:25:51,833 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2024-06-19 06:25:51,837 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2024-06-19 06:25:51,898 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] [Fatal Error] :1:1: Premature end of file.
+2024-06-19 06:25:51,898 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 

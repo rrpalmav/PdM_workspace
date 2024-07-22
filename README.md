@@ -74,3 +74,10 @@ Se crean funciones para generar y utilizar delays no bloqueantes y se utilizan p
 Se crean crear una libreria basada en la practica # 2 para generar y utilizar delays no bloqueantes y se utilizan para hacer parpadear uno de los leds.
 
 <p align="right">(<a href="#readme-top">regresar arriba</a>)</p>
+
+
+## Práctica 4
+
+Se crean crear una libreria basada en la practica # 3 para generar y utilizar rebote no bloqueantes y se utilizan para hacer parpadear uno de los leds.
+
+<p align="right">(<a href="#readme-top">regresar arriba</a>)</p>
