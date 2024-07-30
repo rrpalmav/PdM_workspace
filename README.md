@@ -80,4 +80,8 @@ Se crean crear una libreria basada en la practica # 2 para generar y utilizar de
 
 Se crean crear una libreria basada en la practica # 3 para generar y utilizar rebote no bloqueantes y se utilizan para hacer parpadear uno de los leds.
 
+## Práctica 5
+
+Se crean crear una libreria basada en la practica # 4 para generar y utilizar la libreria UART.
+
 <p align="right">(<a href="#readme-top">regresar arriba</a>)</p>

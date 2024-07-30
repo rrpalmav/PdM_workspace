@@ -1,0 +1,13 @@
+/*
+ * API_uart.h
+ *
+ *  Created on: Jul 25, 2024
+ *      Author: rpalma
+ */
+
+#ifndef API_INC_API_UART_H_
+#define API_INC_API_UART_H_
+
+
+
+#endif /* API_INC_API_UART_H_ */
